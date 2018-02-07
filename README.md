@@ -3,7 +3,7 @@
 ## Getting started
 ```bash
 #clone
-git clone --recurse-submodules 
+git clone --recurse-submodules git@github.com:jonfk/elm-mdl-redraw-dropdown-bug.git
 ```
 
 Compile this project with:
