@@ -1,0 +1,3 @@
+[submodule "elm-mdl"]
+	path = elm-mdl
+	url = git@github.com:jonfk/elm-mdl.git
